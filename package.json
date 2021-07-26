@@ -1,0 +1,35 @@
+{
+  "name": "node_sns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jxlove2020/node_sns.git"
+  },
+  "keywords": [],
+  "author": "joseph",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jxlove2020/node_sns/issues"
+  },
+  "homepage": "https://github.com/jxlove2020/node_sns#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.2",
+    "mysql2": "^2.2.5",
+    "nunjucks": "^3.2.3",
+    "sequelize": "^6.6.5",
+    "sequelize-cli": "^6.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
