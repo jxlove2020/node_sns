@@ -76,7 +76,7 @@ textarea {
   margin-right: 10px;
   border-radius: 4px;
   border: 1px solid silver;
-  background: lightcoral;
+  background: linear-gradient(25deg, #faee81 50%, #e4e9fd 50%);
 }
 .user-name {
   font-weight: bold;
